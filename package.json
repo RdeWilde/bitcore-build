@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-build",
-  "version": "0.8.0",
-  "description": "A helper for common tasks to build bitcore modules'",
+  "name": "ioncore-build",
+  "version": "0.9.0",
+  "description": "A helper for common tasks to build ioncore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/rdewilde/ioncore-build"
   },
   "keywords": [
-    "bitcore"
+    "ioncore"
   ],
   "contributors": [
     {
@@ -33,13 +33,17 @@
     {
       "name": "Matias Alejo Garcia",
       "email": "ematiu@gmail.com"
+    },
+    {
+      "name": "Robert de Wilde",
+      "email": "email@robertdewilde.nl"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-build/issues"
+    "url": "https://github.com/rdewilde/ioncore-build/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-build",
+  "homepage": "https://github.com/rdewilde/ioncore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
